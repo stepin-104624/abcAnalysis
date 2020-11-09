@@ -2,7 +2,7 @@
 #include <CUnit/Basic.h>
 #include <CUnit/CUnit.h>
 
-#include <patientanalysis.h>
+#include <abcanalysis.h>
 #define PROJECT_NAME "abcanalysis"
 
 /* Prototypes for all the test functions */
