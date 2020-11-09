@@ -1,5 +1,5 @@
 #include <stdio.h>
-void abc_analysis(int value,int number,int points){
+void abcanalysis(int value,int number,int points){
 	if (value >= 6000)
 		printf ("The item is under A\n");
 	else if (value < 6000 && value >= 3000)
