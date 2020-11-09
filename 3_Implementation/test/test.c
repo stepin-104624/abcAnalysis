@@ -36,7 +36,7 @@ int main() {
   return 0;
 }
 /* Write all the test functions */
-void test_do_patientanalysis(void) {
+void test_do_abcanalysis(void) {
   CU_ASSERT_EQUAL("The item is under A\n",abcanalysis(7000));
   CU_ASSERT_EQUAL("The item is under vital\n",abcanalysis(200));
   CU_ASSERT_EQUAL("high success rate\n",abcanalysis(7));
