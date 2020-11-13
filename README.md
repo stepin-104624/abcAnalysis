@@ -1,1 +1,1 @@
-![cppcheck-action](https://github.com/stepin104624/abcanalysis/cppcheck-action/badge.svg)
+![cppcheck-action](https://github.com/stepin-104624/abcAnalysis/workflows/cppcheck-action/badge.svg)
